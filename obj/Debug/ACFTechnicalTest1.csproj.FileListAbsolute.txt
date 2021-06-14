@@ -1,0 +1,7 @@
+C:\Users\Adam\source\repos\ACFTechnicalTest1\bin\Debug\ACFTechnicalTest1.exe.config
+C:\Users\Adam\source\repos\ACFTechnicalTest1\bin\Debug\ACFTechnicalTest1.exe
+C:\Users\Adam\source\repos\ACFTechnicalTest1\bin\Debug\ACFTechnicalTest1.pdb
+C:\Users\Adam\source\repos\ACFTechnicalTest1\obj\Debug\ACFTechnicalTest1.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\ACFTechnicalTest1\obj\Debug\ACFTechnicalTest1.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\ACFTechnicalTest1\obj\Debug\ACFTechnicalTest1.exe
+C:\Users\Adam\source\repos\ACFTechnicalTest1\obj\Debug\ACFTechnicalTest1.pdb
