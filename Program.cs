@@ -17,6 +17,7 @@ namespace ACFTechnicalTest1
             int val = getRandom();
             int previousGuess = 0;
             List<int> guesses = new List<int>();
+            //Test Comment
             Console.WriteLine("I have chosen a number between 1 and 100. Please guess it!");
             CheckIfInteger(Console.ReadLine(), out guess);
 
